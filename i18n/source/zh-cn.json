@@ -1,0 +1,212 @@
+{
+  "manifest.author": {
+    "id": "manifest.author",
+    "defaultMessage": "优必选科技",
+    "description": "插件作者名字"
+  },
+  "manifest.description": {
+    "id": "manifest.description",
+    "defaultMessage": "把项目连接到实体世界。",
+    "description": "插件描述"
+  },
+  "block.displayClear": {
+    "col": 30,
+    "defaultMessage": "清空显示",
+    "end": 729,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 25,
+    "start": 666
+  },
+  "block.displaySymbol": {
+    "col": 31,
+    "defaultMessage": "显示 [MATRIX]",
+    "end": 532,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 17,
+    "start": 461
+  },
+  "block.displayText": {
+    "col": 29,
+    "defaultMessage": "显示文本 [TEXT]",
+    "end": 633,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 21,
+    "start": 564
+  },
+  "block.getTiltAngle": {
+    "col": 30,
+    "defaultMessage": "向 [DIRECTION] 的倾斜角",
+    "end": 1045,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 37,
+    "start": 968
+  },
+  "block.isButtonPressed": {
+    "col": 33,
+    "defaultMessage": "按下 [BTN] 按钮？",
+    "end": 325,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 9,
+    "start": 251
+  },
+  "block.isTilted": {
+    "col": 26,
+    "defaultMessage": "向 [DIRECTION] 倾斜?",
+    "end": 935,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 33,
+    "start": 863
+  },
+  "block.whenButtonPressed": {
+    "col": 35,
+    "defaultMessage": "当按下 [BTN] 按钮",
+    "end": 215,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 5,
+    "start": 139
+  },
+  "block.whenGesture": {
+    "col": 29,
+    "defaultMessage": "当被 [GESTURE]",
+    "end": 427,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 13,
+    "start": 357
+  },
+  "block.whenPinConnected": {
+    "col": 34,
+    "defaultMessage": "当引脚 [PIN] 接地",
+    "end": 1157,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 41,
+    "start": 1082
+  },
+  "block.whenTilted": {
+    "col": 28,
+    "defaultMessage": "当向 [DIRECTION] 倾斜",
+    "end": 834,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 29,
+    "start": 760
+  },
+  "device.clickDownload": {
+    "col": 31,
+    "defaultMessage": "点击这里",
+    "end": 2282,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 93,
+    "start": 2217
+  },
+  "device.noConnected": {
+    "col": 29,
+    "defaultMessage": "抱歉，您还没有连接设备",
+    "end": 1969,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 81,
+    "start": 1899
+  },
+  "device.stepFirst": {
+    "col": 27,
+    "defaultMessage": "使用USB线缆连接micro:bit与电脑",
+    "end": 2183,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 89,
+    "start": 2105
+  },
+  "device.stepFourth": {
+    "col": 28,
+    "defaultMessage": "再次尝试点击“搜索设备”按钮",
+    "end": 2610,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 105,
+    "start": 2538
+  },
+  "device.stepSecond": {
+    "col": 28,
+    "defaultMessage": "下载固件，并将固件写入到“MICROBIT”虚拟磁盘中",
+    "end": 2398,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 97,
+    "start": 2313
+  },
+  "device.stepThird": {
+    "col": 27,
+    "defaultMessage": "等待设备的固件更新完成(板载指示灯停止快闪）",
+    "end": 2507,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 101,
+    "start": 2428
+  },
+  "device.tipLine": {
+    "col": 25,
+    "defaultMessage": "首次使用、无法正常搜索、无法正常连接时请尝试：",
+    "end": 2075,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 85,
+    "start": 1997
+  },
+  "menus.any": {
+    "col": 21,
+    "defaultMessage": "任意",
+    "end": 1271,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 47,
+    "start": 1219
+  },
+  "menus.back": {
+    "col": 22,
+    "defaultMessage": "后",
+    "end": 1671,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 67,
+    "start": 1619
+  },
+  "menus.front": {
+    "col": 23,
+    "defaultMessage": "前",
+    "end": 1594,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 63,
+    "start": 1541
+  },
+  "menus.jumped": {
+    "col": 24,
+    "defaultMessage": "抛起",
+    "end": 1515,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 59,
+    "start": 1460
+  },
+  "menus.left": {
+    "col": 22,
+    "defaultMessage": "左",
+    "end": 1748,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 71,
+    "start": 1696
+  },
+  "menus.moved": {
+    "col": 23,
+    "defaultMessage": "移动",
+    "end": 1351,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 51,
+    "start": 1297
+  },
+  "menus.right": {
+    "col": 23,
+    "defaultMessage": "右",
+    "end": 1827,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 75,
+    "start": 1774
+  },
+  "menus.shaken": {
+    "col": 24,
+    "defaultMessage": "摇晃",
+    "end": 1433,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-microbit-v1/src/messages.ts",
+    "line": 55,
+    "start": 1378
+  }
+}

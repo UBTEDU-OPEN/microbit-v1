@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>img_pop_microbit_size512</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="255.800156" cy="256.561466" r="255.800156"></circle>
+        <rect id="path-3" x="0.18820111" y="154.688908" width="356.14398" height="291.613898" rx="26.4997502"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="img_card_youth">
+            <g id="编组-7">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#27C398" xlink:href="#path-1"></use>
+                <g id="路径-5" mask="url(#mask-2)">
+                    <g transform="translate(86.266719, -44.365340)">
+                        <rect id="矩形" stroke="none" fill="#414757" fill-rule="evenodd" x="149.680736" y="123.760161" width="61.5557496" height="53.0207087" rx="13.2498751"></rect>
+                        <rect id="矩形" stroke="none" fill="#414757" fill-rule="evenodd" transform="translate(180.458611, 119.341769) scale(1, -1) translate(-180.458611, -119.341769) " x="158.474414" y="114.923376" width="43.9683926" height="8.83678478" rx="4.41839239"></rect>
+                        <rect id="矩形" stroke="none" fill="#414757" fill-rule="evenodd" transform="translate(180.458611, 110.504984) scale(1, -1) translate(-180.458611, -110.504984) " x="158.474414" y="106.086592" width="43.9683926" height="8.83678478" rx="4.41839239"></rect>
+                        <path d="M174.87357,105.806093 C176.206783,80.0575701 178.801269,60.8734924 182.65703,48.2538603 C186.512791,35.6342283 196.376015,19.5646663 212.246704,0.0451742804 L232.032481,0.0451742804 C214.194068,17.9016663 202.469163,33.9712283 196.857766,48.2538603 C191.24637,62.5364924 188.440671,81.72057 188.440671,105.806093 L174.87357,105.806093 Z" id="路径-12" stroke="none" fill="#414757" fill-rule="evenodd"></path>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="蒙版" stroke="none" fill="#414757" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect id="矩形" stroke="none" fill="#FFD556" fill-rule="evenodd" mask="url(#mask-4)" x="12.1905178" y="429.405264" width="329.762944" height="57.4391011" rx="19.8748126"></rect>
+                        <rect id="矩形" stroke="none" fill="#FFD556" fill-rule="evenodd" mask="url(#mask-4)" x="29.7778748" y="402.89491" width="30.7778748" height="83.9494554" rx="15.3889374"></rect>
+                        <ellipse id="椭圆形" stroke="none" fill="#27C398" fill-rule="evenodd" mask="url(#mask-4)" cx="45.1668122" cy="418.359283" rx="6.59525888" ry="6.62758858"></ellipse>
+                        <rect id="矩形复制-20" stroke="none" fill="#FFD556" fill-rule="evenodd" mask="url(#mask-4)" x="95.7304636" y="402.89491" width="30.7778748" height="83.9494554" rx="15.3889374"></rect>
+                        <ellipse id="椭圆形复制-2" stroke="none" fill="#27C398" fill-rule="evenodd" mask="url(#mask-4)" cx="111.119401" cy="418.359283" rx="6.59525888" ry="6.62758858"></ellipse>
+                        <rect id="矩形复制-21" stroke="none" fill="#FFD556" fill-rule="evenodd" mask="url(#mask-4)" x="161.683052" y="402.89491" width="30.7778748" height="83.9494554" rx="15.3889374"></rect>
+                        <ellipse id="椭圆形复制-3" stroke="none" fill="#27C398" fill-rule="evenodd" mask="url(#mask-4)" cx="177.07199" cy="418.359283" rx="6.59525888" ry="6.62758858"></ellipse>
+                        <rect id="矩形复制-22" stroke="none" fill="#FFD556" fill-rule="evenodd" mask="url(#mask-4)" x="227.635641" y="402.89491" width="30.7778748" height="83.9494554" rx="15.3889374"></rect>
+                        <ellipse id="椭圆形复制-3" stroke="none" fill="#27C398" fill-rule="evenodd" mask="url(#mask-4)" cx="243.024579" cy="418.359283" rx="6.59525888" ry="6.62758858"></ellipse>
+                        <rect id="矩形复制-23" stroke="none" fill="#FFD556" fill-rule="evenodd" mask="url(#mask-4)" x="293.58823" y="402.89491" width="30.7778748" height="83.9494554" rx="15.3889374"></rect>
+                        <ellipse id="椭圆形复制-3" stroke="none" fill="#27C398" fill-rule="evenodd" mask="url(#mask-4)" cx="308.977167" cy="418.359283" rx="6.59525888" ry="6.62758858"></ellipse>
+                        <path d="M161.801767,190.810308 C149.605594,190.810308 139.718642,200.69726 139.718642,212.893433 L139.718642,212.914641 C139.718642,225.110815 149.605594,234.997767 161.801767,234.997767 L201.135891,234.997767 C213.332064,234.997767 223.219016,225.110815 223.219016,212.914641 L223.219016,212.893433 C223.219016,200.69726 213.332064,190.810308 201.135891,190.810308 L161.801767,190.810308 Z" id="矩形" stroke="#35ACFF" stroke-width="8.83325006" fill="none" mask="url(#mask-4)"></path>
+                        <rect id="矩形" stroke="none" fill="#67718B" fill-rule="evenodd" mask="url(#mask-4)" x="284.794552" y="261.506354" width="52.7620711" height="53.0207087" rx="8.83325006"></rect>
+                        <rect id="矩形" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="196.857766" y="252.669569" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-5" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="139.698856" y="252.669569" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-7" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="196.857766" y="279.179923" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-6" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="139.698856" y="279.179923" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-9" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="196.857766" y="305.690278" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-17" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="227.635641" y="279.179923" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-16" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="227.635641" y="305.690278" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-8" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="139.698856" y="305.690278" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-19" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="108.920981" y="279.179923" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-18" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="108.920981" y="305.690278" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-11" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="196.857766" y="332.200632" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-10" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="139.698856" y="332.200632" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-15" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="170.476731" y="283.598316" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-14" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="170.476731" y="310.10867" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-13" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="170.476731" y="336.619024" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <rect id="矩形复制-12" stroke="none" fill="#FF6274" fill-rule="evenodd" mask="url(#mask-4)" x="170.476731" y="363.129379" width="21.9841963" height="26.5103543" rx="10.9920981"></rect>
+                        <ellipse id="椭圆形" stroke="none" fill="#414757" fill-rule="evenodd" mask="url(#mask-4)" cx="311.175587" cy="288.016708" rx="13.1905178" ry="13.2551772"></ellipse>
+                        <rect id="矩形复制-4" stroke="none" fill="#67718B" fill-rule="evenodd" mask="url(#mask-4)" x="20.9841963" y="261.506354" width="52.7620711" height="53.0207087" rx="8.83325006"></rect>
+                        <ellipse id="椭圆形" stroke="none" fill="#414757" fill-rule="evenodd" mask="url(#mask-4)" cx="47.3652318" cy="288.016708" rx="13.1905178" ry="13.2551772"></ellipse>
+                        <ellipse id="椭圆形" stroke="none" fill="#35ACFF" fill-rule="evenodd" mask="url(#mask-4)" cx="161.683052" cy="212.904037" rx="8.79367851" ry="8.83678478"></ellipse>
+                        <ellipse id="椭圆形复制" stroke="none" fill="#35ACFF" fill-rule="evenodd" mask="url(#mask-4)" cx="201.254606" cy="212.904037" rx="8.79367851" ry="8.83678478"></ellipse>
+                        <polygon id="路径-5" stroke="none" fill="#35ACFF" fill-rule="evenodd" mask="url(#mask-4)" points="0.18820111 244.003074 94.083651 154.688908 94.083651 193.770596 132.093379 154.688908 132.093379 183.142281 158.474414 154.688908 164.998915 145.347188 -22.9841963 137.791367"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

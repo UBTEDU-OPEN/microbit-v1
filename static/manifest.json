@@ -1,0 +1,20 @@
+{
+  "id": "cc41671f-3766-487c-ab2c-f16d761a5114",
+  "version": "1.0.1",
+  "type": "device",
+  "name": "micro:bit",
+  "supportModes": ["online"],
+  "description": {
+    "id": "manifest.description",
+    "defaultMessage": "把项目连接到实体世界。",
+    "description": "插件描述"
+  },
+  "author": {
+    "id": "manifest.author",
+    "defaultMessage": "优必选科技",
+    "description": "插件作者名字"
+  },
+  "icon": "logo.svg",
+  "readme": "",
+  "USV": "0.3.0"
+}
