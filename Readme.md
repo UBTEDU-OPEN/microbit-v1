@@ -3,12 +3,12 @@
 - [uCode4 硬件扩展 micro:bit 示例](#ucode4-硬件扩展-microbit-示例)
   - [固件](#固件)
   - [快速预览](#快速预览)
-  - [src目录说明](#src目录说明)
+  - [主要文件说明](#主要文件说明)
   - [更多](#更多)
 
 ## 固件
 
-本插件使用 scratch 版本的 micro:bit 固件，版本是 1.1.0。
+本扩展使用 scratch 版本的 micro:bit 固件，版本是 1.1.0。
 
 [从scratch官网下载：scratch-microbit-1.1.0.hex](https://downloads.scratch.mit.edu/microbit/scratch-microbit-1.1.0.hex.zip)
 
@@ -57,17 +57,18 @@ yarn compile
 
 ![](microbit.gif)
 
-## src目录说明
+## 主要文件说明
 
-| 路径                          | 描述                                                                                            |
-| ----------------------------- | ----------------------------------------------------------------------------------------------- |
-| src/index.js                  | 插件程序入口，注册入口                                                                          |
-| src/block.js                  | 插件积木块定义文件，兼容 scratch3-extension 写法                                                |
-| src/menus.js                  | 插件积木块依赖的下拉菜单定义文件                                                                |
-| src/microbit.js               | microbit 设备封装类，包含协议、通信、数据解析、数据缓存等功能                                   |
-| src/protocols/ble-protocol.js | 蓝牙通信类，由 uCode 插件管理模块初始化，生成用于通信的协议对象。包括发现设备、收发数据等功能。 |
-| src/manifest.json             | 插件描述配置文件                                                                                |
+| 路径                      | 描述                                                           |
+| ------------------------- | -------------------------------------------------------------- |
+| src/index.js              | 扩展程序入口，注册入口                                         |
+| src/block.js              | 扩展积木块定义文件                                             |
+| src/menus.js              | 扩展积木块依赖的下拉菜单定义文件                               |
+| src/microbit.js           | micro:bit 设备封装类，包含协议、通信、数据解析、数据缓存等功能 |
+| src/devices/ble-device.js | micro:bit 蓝牙通信类，发现设备、收发数据。                     |
+| static/logo.svg           | 扩展图标                                                       |
+| static/manifest.json      | 扩展信息                                                       |
 
 ## 更多
 
-有关如何开发uCode硬件插件，或uCode开放平台的信息，可以跳转到[开放平台文档](https://aiedu.ubtrobot.com/open/docs/01-started/usv.html)进行查阅。
+有关如何开发uCode硬件扩展，或uCode开放平台的信息，可以跳转到[开放平台文档](https://aiedu.ubtrobot.com/open/docs/01-started/usv.html)进行查阅。
