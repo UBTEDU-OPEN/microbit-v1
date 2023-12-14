@@ -1,13 +1,13 @@
 /*
  * @Description: microbit协议
  * @Create by:  bright.lin@ubtrobot.com
- * @LastEditors: bright.lin
- * @LastEditTime: 2022-11-23 16:32:50
+ * @LastEditors: vincent.yang vincent.yang@ubtechedu.com
+ * @LastEditTime: 2023-12-14 14:17:42
  */
 import { CommonProtocols } from '@ubtech/ucode-extension-common-sdk';
 import type { CommonBleDataType } from '@ubtech/ucode-extension-common-sdk/extension-common/src/protocol/ble';
 
-const { WebBleProtocol } = CommonProtocols.BLE;
+const { UnionBleProtocol } = CommonProtocols.BLE;
 
 type SensorType = {
   tiltX: number;
@@ -36,7 +36,7 @@ type GestureType = {
   };
 };
 
-export class MicrobitBleConnection extends WebBleProtocol {
+export class MicrobitBleConnection extends UnionBleProtocol {
   sensors?: SensorType;
 
   gestures?: GestureType;

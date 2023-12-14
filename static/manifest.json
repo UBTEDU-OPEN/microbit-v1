@@ -1,6 +1,6 @@
 {
   "id": "cc41671f-3766-487c-ab2c-f16d761a5114",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "type": "device",
   "name": "micro:bit",
   "supportModes": ["online"],
